@@ -1,0 +1,170 @@
+[
+    {
+        "country": "China",
+        "infected": "37198",
+        "dead": "811",
+        "recovered": "2649"
+    },
+    {
+        "country": "Japan",
+        "infected": "90",
+        "dead": "0",
+        "recovered": "4"
+    },
+    {
+        "country": "Singapore",
+        "infected": "40",
+        "dead": "0",
+        "recovered": "2"
+    },
+    {
+        "country": "Thailand",
+        "infected": "32",
+        "dead": "0",
+        "recovered": "10"
+    },
+    {
+        "country": "Hong Kong",
+        "infected": "26",
+        "dead": "1",
+        "recovered": "0"
+    },
+    {
+        "country": "South Korea",
+        "infected": "25",
+        "dead": "0",
+        "recovered": "3"
+    },
+    {
+        "country": "Taiwan",
+        "infected": "17",
+        "dead": "0",
+        "recovered": "1"
+    },
+    {
+        "country": "Australia",
+        "infected": "15",
+        "dead": "0",
+        "recovered": "5"
+    },
+    {
+        "country": "Malaysia",
+        "infected": "16",
+        "dead": "0",
+        "recovered": "1"
+    },
+    {
+        "country": "Germany",
+        "infected": "14",
+        "dead": "0",
+        "recovered": "0"
+    },
+    {
+        "country": "United States",
+        "infected": "12",
+        "dead": "0",
+        "recovered": "3"
+    },
+    {
+        "country": "Vietnam",
+        "infected": "13",
+        "dead": "0",
+        "recovered": "3"
+    },
+    {
+        "country": "France",
+        "infected": "11",
+        "dead": "0",
+        "recovered": "0"
+    },
+    {
+        "country": "Macau",
+        "infected": "10",
+        "dead": "0",
+        "recovered": "1"
+    },
+    {
+        "country": "United Arab Emirates",
+        "infected": "7",
+        "dead": "0",
+        "recovered": "0"
+    },
+    {
+        "country": "Canada",
+        "infected": "7",
+        "dead": "0",
+        "recovered": "0"
+    },
+    {
+        "country": "India",
+        "infected": "3",
+        "dead": "0",
+        "recovered": "0"
+    },
+    {
+        "country": "Philippines",
+        "infected": "3",
+        "dead": "1",
+        "recovered": "0"
+    },
+    {
+        "country": "United Kingdom",
+        "infected": "3",
+        "dead": "0",
+        "recovered": "0"
+    },
+    {
+        "country": "Italy",
+        "infected": "3",
+        "dead": "0",
+        "recovered": "0"
+    },
+    {
+        "country": "Russia",
+        "infected": "2",
+        "dead": "0",
+        "recovered": "0"
+    },
+    {
+        "country": "Nepal",
+        "infected": "1",
+        "dead": "0",
+        "recovered": "0"
+    },
+    {
+        "country": "Cambodia ??\nReuters",
+        "infected": "1",
+        "dead": "0",
+        "recovered": "1"
+    },
+    {
+        "country": "Sri Lanka",
+        "infected": "1",
+        "dead": "0",
+        "recovered": "1"
+    },
+    {
+        "country": "Finland",
+        "infected": "1",
+        "dead": "0",
+        "recovered": "1"
+    },
+    {
+        "country": "Sweden",
+        "infected": "1",
+        "dead": "0",
+        "recovered": "0"
+    },
+    {
+        "country": "Spain",
+        "infected": "1",
+        "dead": "0",
+        "recovered": "0"
+    },
+    {
+        "country": "Belgium",
+        "infected": "1",
+        "dead": "0",
+        "recovered": "0"
+    }
+]
